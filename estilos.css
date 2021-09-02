@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#contenedor{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+}
+
+body { 
+	background-color: #FFFFFF;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Inter', sans-serif; 
+}
+
+main {
+	width: 90%;
+	height: 900px;
+	background-color: #F9F5EC;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	max-width: 1000px;
+	border: double 10px #f6a261;
+	border-radius: 90px
+	
+}
+
+header {
+	height: 130px;
+	background-color: #f6a261;
+	max-width: 600%;
+	margin-left: auto;
+	margin-right: auto;
+	background: linear-gradient(to right, #f6a261, #ff7f00);
+	border-top-left-radius: 90px;
+	border-top-right-radius: 90px;
+	border-bottom: solid thick #f6883d;
+	
+}
+
+section {
+	width: 100%;
+	height: 2%;
+	padding-top: 20px;
+	padding-left: 30px
+	
+}
+
+footer {
+	height: 170px;
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px
+	
+}
+
+.logo { 
+	padding: 10px;
+	height: 125px
+		
+}
+
+.columnas { 
+	padding: 40px;
+	height: 300px;
+	column-count: 2;
+	column-gap: 30px;
+	column-rule: 2px solid #f6a261;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+	color: #4F3326;
+	max-width: 600%;
+		
+}
+
+#titulo { 
+	padding: 40px;
+		
+}
+
+#contenedor dos { 
+	text-align: center;
+}
+
+#a { 
+	text-align: center
+}
+
+.gideon { 
+	width: 126px;
+	text-align: center;
+}
+
+.paw { 
+	width: 2%;
+	float: left;
+	height: 2%;
+	
+}
+
+.img { 
+	text-align: center;
+	border-radius: 100px;
+	padding-top: 20px
+	
+}
+
+p { 
+	text-align: center;
+	border-radius: 100px
+	
+}
+
+o { 
+	float: right;
+	padding-right: 45px
+	
+}
+
+a { 
+	float: left;
+	padding-left: 200px;
+	padding-top: 50px;
+	color: #FFE3AE
+	
+}
