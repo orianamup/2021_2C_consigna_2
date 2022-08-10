@@ -1,2 +1,2 @@
 # consigna_2
-Trabajo para Producción Digital II, Universidad de Palermo
+Trabajo para Producción Digital II, Cátedra Natalia Miglino
